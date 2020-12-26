@@ -1,0 +1,53 @@
+/*
+First color: #08526d;
+Second Color: #ec1c23;
+
+
+*/
+
+/* Start Upper Bar*/
+.upper-bar {
+	background-color: #08526d;
+	color: #fff;
+	padding: 10px;
+}
+
+.upper-bar span {
+	color: #bfc6c9;
+}
+
+.upper-bar .get-quote {
+	display: inline-block;
+	border: 1px solid #ec1c23;
+	padding: 2px 10px;
+	margin-left: 20px;
+}
+/* End Upper Bar*/
+
+/*Start Nav-Bar*/
+.navbar-brand span {
+	font-size: 30px;
+}
+.navbar-brand span:first-child {
+	color: #08526d;
+	font-weight: bold;
+}
+.navbar-brand span:last-child {
+	color: #ec1c23;
+}
+
+.navbar-nav .nav-link {
+	color: #08526d;
+	font-size: 16px;
+	font-weight: 300;
+	text-transform: uppercase;
+	margin-left: 20px;
+}
+.navbar-light .navbar-nav .nav-link.active {
+	color: #ec1c23 !important;
+}
+/*End Nav-Bar*/
+
+/*Sart Slider*/
+
+/*End Slider*/
