@@ -5,6 +5,10 @@ Second Color: #ec1c23;
 
 */
 
+body {
+	height: 2000px;
+}
+
 /* Start Upper Bar*/
 .upper-bar {
 	background-color: #08526d;
@@ -102,3 +106,60 @@ Second Color: #ec1c23;
 	height: 8px;
 }
 /*End Slider*/
+
+/*Start Features*/
+
+.features {
+	padding: 50px 0;
+}
+.features i {
+	background-color: #ec1c23;
+	color: #fff;
+	width: 100px;
+	height: 100px;
+	line-height: 100px;
+	margin-bottom: 30px;
+}
+
+.features h3 {
+	color: #08526d;
+	font-weight: bold;
+	font-size: 22px;
+}
+.features p {
+	color: #989898;
+	margin-bottom: 40px;
+}
+/*End Features*/
+
+/*Start Overview*/
+.overview {
+	background-color: #f0f5f7;
+	padding: 100px 0;
+}
+.overview h1 {
+	color: #08526d;
+	font-size: 50px;
+	font-weight: bold;
+	margin-bottom: 30px;
+}
+.overview p {
+	line-height: 2;
+	font-size: 20px;
+	letter-spacing: 2px;
+	color: #ddd;
+	margin-bottom: 15px;
+}
+
+.overview button {
+	background-color: #ec1c23;
+	color: #fff;
+	/* width: 170px; */
+	padding: 10px 20px;
+	font-size: 22px;
+	/* border-radius: 10px; */
+	text-transform: uppercase;
+	border: 1px solid #ec1c23;
+}
+
+/*End Overview*/
